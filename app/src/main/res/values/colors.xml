@@ -14,4 +14,5 @@
     <color name="green">#27ae60</color>
     <color name="green2_light">#2ecc71</color>
     <color name="backgr">#4286f3</color>
+    <color name="btnbg">#dbd9dc</color>
 </resources>

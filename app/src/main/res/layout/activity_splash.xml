@@ -52,7 +52,7 @@
         android:layout_gravity="center_horizontal"
         android:layout_marginTop="66dp"
         android:indeterminate="true"
-        android:indeterminateTint="@color/purple_500"
+        android:indeterminateTint="@color/green2_light"
         android:max="100"
         android:progress="0" />
 
